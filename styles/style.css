@@ -3,9 +3,9 @@ html {
     font-size: 14px; /* px means "pixels": the base font size is now 10 pixels high  */
     font-family: 'Montserrat', sans-serif;; /* this should be the rest of the output you got from Google fonts */
   }
-p:hover{
-    color: rgb(63, 203, 207)
-}
+  h2.top-subtitle{
+    font-size: 8px;
+  }
 a:hover{
     color: rgb(255, 0, 0);
 }
@@ -38,7 +38,4 @@ h1 {
     display: block;
     margin: 0 auto;
   }
-  button {
-      display: block;
-      margin: 500;
-  }
+
